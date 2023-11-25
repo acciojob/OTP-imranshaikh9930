@@ -1,4 +1,4 @@
-. const inputs = document.querySelectorAll('.code');
+const inputs = document.querySelectorAll('.code');
 
 
    for(let i = 0 ; i< inputs.length;i++){
