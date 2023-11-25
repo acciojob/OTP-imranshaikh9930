@@ -1,7 +1,7 @@
-const inputs = document.querySelectorAll('.code');
-	let i ;
+. const inputs = document.querySelectorAll('.code');
 
-   for( i = 0 ; i< inputs.length;i++){
+
+   for(let i = 0 ; i< inputs.length;i++){
 
     const currentInput = inputs[i];
 
